@@ -1,0 +1,13 @@
+
+2/12/18 Kirti Notes:
+
+On graphs:
+- Not exactly right...
+- Currently the graphs are printing for aggregate of all boundarys.
+- What we want to happen:
+	- Click in boundary and create the graphs based on the tiff files
+	  that exist in that region.
+
+on other stuff:
+- Kirti will send screen shots of current graphs to Matt (USFS) for feedback
+

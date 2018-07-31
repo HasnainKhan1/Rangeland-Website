@@ -1,0 +1,25 @@
+4/3/18
+
+I. Left Panel
+  A. Summary - what team was asked to do and why
+    1. Motivation
+    2. Requirements
+    
+   B. Approach - what was in place and how was application extended
+     1. Resources
+     2. Plan
+     
+II. Center Panel
+  A. Application - what was achieved
+  
+III. Right Panel
+  A. User Feedback
+  B. Analysis
+  C. Conclusion
+  D. Future Work
+  E. Glossary
+  F. References
+    1. Data 
+    2. Kirti's related work
+  E. Acknowledgements
+  

@@ -1,0 +1,36 @@
+Meeting notes - 2/5/2018 - Kirti
+
+Todays Notes:
+Meeting with the person next week.
+- Should be able to get some feedback from a stakeholder
+
+
+
+
+Tasks for this week:
+
+
+
+Model/Indicator/decade(band number)
+
+if you know those, you can know the file by name. 
+-give by climatemodel+indicator
+	- go into file and select band number (2-10)
+	- location is shape file that you clicked in
+
+...on line 119 server.R
+#	d <- raster(paste(input$ClimateModel,input$Indicators,".tif",sep=""), band=input$Decades)
+
+# this is a way to get the climate model, indicators, and band  
+
+if you dont know the type of variable: cat(str(variable))
+
+
+TESTING:
+Unit testing: make sure functions do what we think they are doing.
+Integration: Make sure functions work well together
+System testing: Actually use the system and try to break it, find faults, bugs.
+
+
+Useful resource: web application development with R using Shiny
+https://englianhu.files.wordpress.com/2016/01/web-application-development-with-r-using-shiny.pdf

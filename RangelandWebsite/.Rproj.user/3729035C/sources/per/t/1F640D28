@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518307749059.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3891510675",
+    "id" : "1F640D28",
+    "lastKnownWriteTime" : 1523298214,
+    "last_content_update" : 1523298214,
+    "path" : "~/Documents/Cpts421/new/Gemini/RangelandWebsite/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "136,47",
+        "scrollLine" : "121"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

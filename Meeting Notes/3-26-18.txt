@@ -1,0 +1,31 @@
+3/26/18
+
+Web application
+I. Plots (HM)
+  A. Change from mean value to boxplot per decade
+  B. Set y-axis range to [-2,2] for indicators and [-8,8] for index
+  C. Set appropriate y-axis tick marks
+  D. Set x-axis range to [2020,2100]
+  E. Set appropriate x-axis tick marks
+  
+II. Homepage (MB)
+  A. Template: http://agclimatetools.cahnrs.wsu.edu/users/giridhar/codmoth/
+    1. About
+    2. People
+    3. Indicators
+    4. Summary
+    5. Video
+    
+III. Pop-up (RY)
+  A. Add information to pop-ups as directed by user feedback
+  
+IV. Aesthetics (RT)
+  A. Turn on zoom
+  B. Set color scheme {dark red, white, dark green}
+  
+V. Browser compatibility (RY)
+  A. View web app (http://agclimatetools.cahnrs.wsu.edu/users/ryan.torelli/3-26/)
+    1. Chrome
+    2. Firefox
+    3. Explorer
+    4. Safari
